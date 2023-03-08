@@ -38,6 +38,14 @@ export const projects = [
       "Welcome to our company site! Here, you can easily get a free quote and learn everything you need to know about our brand. Our user-friendly interface allows you to access all the information you need in just a few clicks.",
     link: "https://www.divinedesignllc.art/",
     image: "./DivineDesign.gif",
+  },
+    {
+    title: "Midjourney/EditorX ",
+    subtitle: "Using Ai images",
+    description:
+      " The perfect blend of art and technology, brought to you by EditorX and Midjourney",
+    link: "https://brysongulley.editorx.io/aiart",
+    image: "./Midjourney.gif",
   }
 ];
 
@@ -49,7 +57,8 @@ export const skills = [
   "CSS",
   "Figma",
   "WordPress",
-  "MERN Stack"
+  "MERN Stack",
+  "Photoshop"
   
   
 ];
